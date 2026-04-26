@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on web development and Ai&Ml
 - 📫 How to reach me ...mail:vedantp062006@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 VedantP062006/VedantP062006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
